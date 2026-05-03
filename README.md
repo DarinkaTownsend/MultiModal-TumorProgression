@@ -3,7 +3,7 @@
 **CAP 5516 Medical Image Computing — Final Project**
 University of Central Florida
 
-**Obinsonne Servius** (ob675831@ucf.edu) · **Darinka Townsend** (dtownsend@ucf.edu)
+**Obinsonne Servius** · **Darinka Townsend** 
 
 ---
 
