@@ -78,6 +78,14 @@ Severity labels:
 <p align="center">
   <img src="Figs/eval_combi2.png" width="45%">
 </p>
+<p align="center">
+  <img src="Figs/eval_combi.png" width="45%">
+</p>
+<p align="center">
+  <img src="Figs/multi_train.png" width="45%">
+  <img src="Figs/multi_train2.png" width="45%">
+</p>
+
 
 ---
 
