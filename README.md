@@ -1,11 +1,11 @@
-# Safe Multimodal Brain Tumor Progression Modeling via Joint Classification and Forecasting from MRI and Clinical Text
+# 🧠 Safe Multimodal Brain Tumor Progression Modeling via Joint Classification and Forecasting from MRI and Clinical Text
 
 **CAP 5516 — Medical Image Computing (UCF)**  
 Obinsonne Servius · Darinka Townsend  
 
 ---
 
-## Overview
+## 📌 Overview
 
 This project presents a **multimodal framework** for brain tumor analysis from longitudinal MRI, combining:
 
@@ -28,7 +28,9 @@ Given a baseline MRI scan and clinical metadata, the model predicts tumor severi
 - Predicts future tumor segmentation masks
 - Uses classification output as guidance for progression modeling
 
-
+<p align="center">
+  <img src="Figs/metodology.png" width="45%">
+</p>
 
 ---
 
@@ -47,6 +49,9 @@ Severity labels:
 - Mid (Grade 3)
 - High (Grade 4)
 
+<p align="center">
+  <img src="Figs/dataset.png" width="45%">
+</p>
 ---
 
 ## Results
@@ -67,7 +72,21 @@ Severity labels:
 | Image-only | 0.6171 | 743.10 |
 | Multimodal | 0.6697 | 654.50 |
 
-
+<p align="center">
+  <img src="Figs/results1.png" width="45%">
+</p>
+<p align="center">
+  <img src="Figs/results2.png" width="45%">
+</p>
+<p align="center">
+  <img src="Figs/results3.png" width="45%">
+</p>
+<p align="center">
+  <img src="Figs/results4.png" width="45%">
+</p>
+<p align="center">
+  <img src="Figs/results5.png" width="45%">
+</p>
 ---
 
 ## Setup
