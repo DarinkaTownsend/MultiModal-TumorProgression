@@ -73,20 +73,12 @@ Severity labels:
 | Multimodal | 0.6697 | 654.50 |
 
 <p align="center">
-  <img src="Figs/results1.png" width="45%">
+  <img src="Figs/testmetrics.png" width="45%">
 </p>
 <p align="center">
-  <img src="Figs/results2.png" width="45%">
+  <img src="Figs/eval_combi2.png" width="45%">
 </p>
-<p align="center">
-  <img src="Figs/results3.png" width="45%">
-</p>
-<p align="center">
-  <img src="Figs/results4.png" width="45%">
-</p>
-<p align="center">
-  <img src="Figs/results5.png" width="45%">
-</p>
+
 ---
 
 ## Setup
